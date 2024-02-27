@@ -1,6 +1,6 @@
 ### Welcome
 
-Hello there. My name in Baur Mukhametzhanov and I am postdoctoral fellow in theoretical physics at Cornell University. My current interests are in Machine Learning, including Deep Learning, Reinforcement Learning, and Natural Language Processing.
+Hello there. My name is Baur Mukhametzhanov and I am postdoctoral fellow in theoretical physics at Cornell University. My current interests are in Machine Learning, including Deep Learning, Reinforcement Learning, and Natural Language Processing.
 
 I completed my PhD at Harvard University in 2019 with a thesis on Conformal Bootstrap. Later, as a postdoc at the Institute for Advanced Study in Princeton and at Cornell, my research focused on Black Holes, Holography (AdS/CFT), Quantum Gravity, and Random Matrix Theory. My publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=dyZ8C6UAAAAJ&hl=en&oi=sra) and [InspireHep](https://inspirehep.net/authors/1230996?ui-citation-summary=true). Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/baur-mukhamet/).
 
